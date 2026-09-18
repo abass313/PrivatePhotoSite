@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PrivatePhotoSite/static/css/main.e6d1743f.css",
+    "main.js": "/PrivatePhotoSite/static/js/main.a1e062b1.js",
+    "static/js/453.aae5db77.chunk.js": "/PrivatePhotoSite/static/js/453.aae5db77.chunk.js",
+    "index.html": "/PrivatePhotoSite/index.html",
+    "main.e6d1743f.css.map": "/PrivatePhotoSite/static/css/main.e6d1743f.css.map",
+    "main.a1e062b1.js.map": "/PrivatePhotoSite/static/js/main.a1e062b1.js.map",
+    "453.aae5db77.chunk.js.map": "/PrivatePhotoSite/static/js/453.aae5db77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6d1743f.css",
+    "static/js/main.a1e062b1.js"
+  ]
+}

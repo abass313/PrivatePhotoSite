@@ -30,7 +30,7 @@ function LoginBox({ onLoginSuccess }) {
 
   return (
     <div className="login-box">
-      <img src="/login.png" alt="Login" className="login-image" />
+      <img src={`${process.env.PUBLIC_URL}/login.png`} alt="Login" className="login-image" />
       <form onSubmit={handleSubmitVerification}>
         <div className="form-group">
           <label htmlFor="username">Username:</label>
